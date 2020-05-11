@@ -1,0 +1,4 @@
+Anonymous Methods - Anonymous method is a method without a name.Introduced in C# 2, they provide us a way of creating delegate instance without having to write a seperate method.
+
+
+
